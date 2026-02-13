@@ -9,5 +9,6 @@ Step 2: Image Collection
 Google Drive (Images and Vedio): https://drive.google.com/drive/folders/1HCWaoIXr3pMN7j1W0GnB3isuTlcl0tA0?usp=drive_link
 
 Step 3: Upload Dataset to Teachable Machine
+ Teachable Machine: https://teachablemachine.withgoogle.com/train/tiny_image
 
 
