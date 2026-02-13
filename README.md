@@ -11,4 +11,3 @@ Google Drive (Images and Vedio): https://drive.google.com/drive/folders/1HCWaoIX
 Step 3: Upload Dataset to Teachable Machine
  Teachable Machine: https://teachablemachine.withgoogle.com/train/tiny_image
 
-
