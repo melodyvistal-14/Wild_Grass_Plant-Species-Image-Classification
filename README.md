@@ -10,4 +10,21 @@ Google Drive (Images and Vedio): https://drive.google.com/drive/folders/1HCWaoIX
 
 Step 3: Upload Dataset to Teachable Machine
  Teachable Machine: https://teachablemachine.withgoogle.com/train/tiny_image
+        images: https://drive.google.com/drive/folders/1f16mJ1cMPK4LXhrgwUpQSJFWuQaig08r?usp=drive_link
+        
+Step 4: Train the Model
+       <img width="1479" height="765" alt="Screenshot 2026-02-14 060920" src="https://github.com/user-attachments/assets/2535f1be-7441-459c-854b-9e2577cb0adf" />
+       <img width="813" height="686" alt="Screenshot 2026-02-14 061007" src="https://github.com/user-attachments/assets/c7f1402a-efea-453d-a5a5-87d527ec9b0b" />
+       
+Step 5: Collect “Under the Hood” Results
+        <img width="952" height="852" alt="Screenshot 2026-02-14 061034" src="https://github.com/user-attachments/assets/f0810c30-8e88-45cb-bb51-3d2dcaf4c031" />
+        <img width="930" height="720" alt="Screenshot 2026-02-14 061635" src="https://github.com/user-attachments/assets/45618817-8555-4cab-a693-1eeeb6dc1e8b" 
+         
+Step 6: Test the Model (Preview Section)
+         https://drive.google.com/drive/folders/1f16mJ1cMPK4LXhrgwUpQSJFWuQaig08r?usp=drive_link
+
+Step 7: Export the Model
+         https://drive.google.com/file/d/1fXtxP4l896wIjdan9Y1qnauFwxkEwQ1M/view?usp=drive_link
+
+
 
