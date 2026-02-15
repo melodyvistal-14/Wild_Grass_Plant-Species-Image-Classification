@@ -25,6 +25,25 @@ Step 6: Test the Model (Preview Section)
 Step 7: Export the Model
          https://drive.google.com/file/d/1fXtxP4l896wIjdan9Y1qnauFwxkEwQ1M/view?usp=drive_link
 
+Answer the following questions based on your experience:
+
+1. How did the number of images per class affect your model’s accuracy?
+- The number of images per class did not affect the model’s accuracy because each class had the same number of images; the performance gap is likely due to overfitting rather than class imbalance.
+
+2. Which plant species were most commonly misclassified and why?
+ - Bermuda Grass, Carpet Grass, Goose Grass, Cyperus Grass, and Purple Nutsedge Grass were often misclassified because they look very similar in color, shape, and texture, making it hard for the model to tell them apart.
+
+3. How did changing the epochs, batch size, or learning rate affect the training results?
+ - With 50 epochs, training accuracy improved, but test accuracy stopped rising, showing overfitting. A batch size of 16 balanced learning speed and stability. A small learning rate of 0.001 helped loss decrease smoothly but slowed test accuracy improvement.
+
+4. What challenges did you encounter during dataset collection and labeling?
+ - The main challenges were collecting enough clear images, capturing different angles and lighting, labeling similar-looking species correctly, and removing poor-quality or duplicate images.
+
+5. If you were to improve your model, what specific changes would you make and why?
+ - To improve the model, I would get more clear images from plant databases and reliable websites, showing different angles and lighting to help the model learn better.
+
+
+
 
 
 
