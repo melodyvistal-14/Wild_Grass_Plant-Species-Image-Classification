@@ -20,7 +20,7 @@ Step 5: Collect “Under the Hood” Results
         <img width="930" height="720" alt="Screenshot 2026-02-14 061635" src="https://github.com/user-attachments/assets/45618817-8555-4cab-a693-1eeeb6dc1e8b" />
          
 Step 6: Test the Model (Preview Section)
-         https://drive.google.com/drive/folders/1f16mJ1cMPK4LXhrgwUpQSJFWuQaig08r?usp=drive_link
+         https://drive.google.com/drive/folders/1w2jxLhJic0TtsrZzQcVP2JIiyRVwCSpT?usp=drive_link
 
 Step 7: Export the Model
          https://drive.google.com/file/d/1fXtxP4l896wIjdan9Y1qnauFwxkEwQ1M/view?usp=drive_link
