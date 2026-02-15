@@ -18,7 +18,7 @@ Step 4: Train the Model
        
 Step 5: Collect “Under the Hood” Results
         <img width="952" height="852" alt="Screenshot 2026-02-14 061034" src="https://github.com/user-attachments/assets/f0810c30-8e88-45cb-bb51-3d2dcaf4c031" />
-        <img width="930" height="720" alt="Screenshot 2026-02-14 061635" src="https://github.com/user-attachments/assets/45618817-8555-4cab-a693-1eeeb6dc1e8b" 
+        <img width="930" height="720" alt="Screenshot 2026-02-14 061635" src="https://github.com/user-attachments/assets/45618817-8555-4cab-a693-1eeeb6dc1e8b" />
          
 Step 6: Test the Model (Preview Section)
          https://drive.google.com/drive/folders/1f16mJ1cMPK4LXhrgwUpQSJFWuQaig08r?usp=drive_link
