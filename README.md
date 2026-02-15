@@ -37,10 +37,10 @@ Answer the following questions based on your experience:
  - With 50 epochs, training accuracy improved, but test accuracy stopped rising, showing overfitting. A batch size of 16 balanced learning speed and stability. A small learning rate of 0.001 helped loss decrease smoothly but slowed test accuracy improvement.
 
 4. What challenges did you encounter during dataset collection and labeling?
- - The main challenges were collecting enough clear images, capturing different angles and lighting, labeling similar-looking species correctly, and removing poor-quality or duplicate images.
+ - The main challenges that i encounter is that, collecting a nice clear images, capturing different angles and lighting, labeling similar-looking species correctly, and removing poor-quality of images and capturing a 250 images of wild grass plants.
 
 5. If you were to improve your model, what specific changes would you make and why?
- - To improve the model, I would get more clear images from plant databases and reliable websites, showing different angles and lighting to help the model learn better.
+ - To improve my model, I would get more clear images from plant databases and reliable websites, that showing different angles and lighting to help ,my model learn better.
 
 
 
